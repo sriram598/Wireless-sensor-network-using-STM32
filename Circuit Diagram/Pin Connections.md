@@ -12,7 +12,7 @@
 | MISO         | PA6                           | SPI Master In Slave Out |
 | MOSI         | PA7                           | SPI Master Out Slave In |
 
-> ⚠️ **Note:** The NRF24L01 operates at **3.3V logic only** — ensure all connections use 3.3V.
+> **Note:** The NRF24L01 operates at **3.3V logic only** — ensure all connections use 3.3V.
 
 ---
 
